@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: "user-center"
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: "jdbc:mysql://101.200.91.104:3306/cxy?useUnicode=true&characterEncoding=utf8"
+    username: "cxy"
+    password: "187900cw"
